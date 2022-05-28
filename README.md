@@ -78,6 +78,11 @@ plt.show()
 
 ```
 
+<br>
+<br>
+<br>
+<br>
+
 ## Output:
 ![image](https://user-images.githubusercontent.com/75235554/169461648-f02c68c2-d507-491d-8c2b-ce3afa9218e2.png)
 ![image](https://user-images.githubusercontent.com/75235554/169462012-21596b3b-bb16-4b57-b4c0-9677fb5c7bc8.png)
